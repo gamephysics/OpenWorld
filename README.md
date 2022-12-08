@@ -10,6 +10,7 @@ Unity DOTS 0.51 에서 OpenWorld를 구현하기 위한 SubScene 사용법을 �
 
 Unity 2021.3.12f1 를 기반으로 컴파일되도록 작성하였습니다. (Entity Package 0.51)
 
+<img src="./Assets/Art/sample.gif" width="30%" height="30%"></img>
 
 
 ## Description
