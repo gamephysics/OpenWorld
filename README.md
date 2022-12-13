@@ -4,7 +4,7 @@ Unity DOTS 0.51 에서 OpenWorld를 구현하기 위한 SubScene 사용법을 �
 
 ## Youtube
 
-
+[![Video Label](https://img.youtube.com/vi/K9RDX60XxEA/0.jpg)](https://youtu.be/K9RDX60XxEA)
 
 ## Compile
 
